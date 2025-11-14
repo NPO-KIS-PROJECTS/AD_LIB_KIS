@@ -20,3 +20,5 @@ ProjectPath=SYMBOL\OPTICS\OPTICS.LibPkg
 ProjectPath=SYMBOL\CONNECTORS\CONNECTORS.LibPkg
 [Project10]
 ProjectPath=SYMBOL\MECHANICS\MECHANICS.LibPkg
+[Project11]
+ProjectPath=C:\altium\Altium_WCAP-CSGP (rev25c).LibPkg
