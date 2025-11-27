@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=FYCZGILF
 
 [Document2]
-DocumentPath=..\..\FOOTPRINT\MECHANICAL_SMD.PcbLib
+DocumentPath=..\..\FOOTPRINT\CONNECTORS_SMD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,10 +81,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MCWUGEPQ
 
 [Document3]
-DocumentPath=..\..\FOOTPRINT\MECHANICAL_THR.PcbLib
+DocumentPath=..\..\FOOTPRINT\CONNECTORS_THR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,7 +98,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WHNSXLCC
 
 [Generic_EDE]
 OutputDir=..\..\INT_LIB
