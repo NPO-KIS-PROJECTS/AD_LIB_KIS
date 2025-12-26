@@ -17,8 +17,6 @@ ProjectPath=SYMBOL\IC_INTERFACE\IC_INTERFACE.LibPkg
 [Project8]
 ProjectPath=SYMBOL\OPTICS\OPTICS.LibPkg
 [Project9]
-ProjectPath=SYMBOL\CONNECTORS\CONNECTORS.LibPkg
-[Project10]
 ProjectPath=SYMBOL\MECHANICS\MECHANICS.LibPkg
-[Project11]
-ProjectPath=..\Altium_WCAP-CSGP (rev25c).LibPkg
+[Project10]
+ProjectPath=SYMBOL\CONNECTORS\CONNECTORS.LibPkg
